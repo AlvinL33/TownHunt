@@ -2,7 +2,7 @@
 //  DevScreenViewController.swift
 //  TownHunt
 //
-//  Created by iD Student on 8/2/16.
+//  Created by Alvin Lee on 8/2/16.
 //  Copyright © 2016 LeeTech. All rights reserved.
 //
 
