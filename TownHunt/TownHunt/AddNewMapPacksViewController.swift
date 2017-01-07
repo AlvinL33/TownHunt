@@ -2,7 +2,6 @@
 //  AddNewMapPacksViewController.swift
 //  TownHunt
 //
-//  Created by iD Student on 7/29/16.
 //  Copyright © 2016 LeeTech. All rights reserved.
 //
 
