@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TownHunt
 //
-//  Created by iD Student on 7/27/16.
+//  Created by Alvin Lee on 7/27/16.
 //  Copyright © 2016 LeeTech. All rights reserved.
 //
 
